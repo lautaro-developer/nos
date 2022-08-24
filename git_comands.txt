@@ -25,3 +25,10 @@ parametro: push - lugar donde enviamos la informacionn
 *para traer los cambios que ana iso al repo se usa 
  git pull [nombre_servidor] [rama]
  git pull nombre_servidor_git main
+
+
+*config de git para que me funcione
+git config pull.rebase true
+
+
+
