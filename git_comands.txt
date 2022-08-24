@@ -8,3 +8,10 @@ git
 
 git config --local - crear una config para solo este archivo
 git config --global - crear una config para todos los archivos y carpetas de ahora en adelante
+
+git remote -v -  para ver a que repositorio esta apuntando la carpeta
+
+[ nombre server ] [ ruta del directorio ] (parametro)
+
+parametro: fetch - lugar donde se extrae la informacion desde ese servidor
+parametro: push - lugar donde enviamos la informacionn
