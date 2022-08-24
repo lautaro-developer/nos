@@ -17,3 +17,7 @@ ihruhfuhrughuhr
 
 parametro: fetch - lugar donde se extrae la informacion desde ese servidor
 parametro: push - lugar donde enviamos la informacionn
+
+*cambiar el nombre del repositorio clonado
+ git por defecto pone origin en el nombre del repo cuando lo creamos pero se puede cambiar
+ git remote rename [nombre_actual] [nuevo_nombre]
