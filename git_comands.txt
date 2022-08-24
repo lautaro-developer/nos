@@ -1,0 +1,10 @@
+HEAD - Estado actual de nuestro código, es decir, donde nos colocó Git
+Working tree - Lugar donde los archivos realmente están siendo almacenados
+index - Lugar donde Git almacena lo que será commiteado, es decir, la ubicación entre el working tree y el repositorio de Git en sí.
+
+git log - para ver los commis echos
+git log --oneline para ver los commits en una linea
+git 
+
+git config --local - crear una config para solo este archivo
+git config --global - crear una config para todos los archivos y carpetas de ahora en adelante
