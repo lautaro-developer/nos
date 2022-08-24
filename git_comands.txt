@@ -13,5 +13,7 @@ git remote -v -  para ver a que repositorio esta apuntando la carpeta
 
 [ nombre server ] [ ruta del directorio ] (parametro)
 
+ihruhfuhrughuhr
+
 parametro: fetch - lugar donde se extrae la informacion desde ese servidor
 parametro: push - lugar donde enviamos la informacionn
